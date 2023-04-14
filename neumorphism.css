@@ -11,92 +11,92 @@
 }
 @font-face {
   font-family: 'FZJZFS';
-  src: url('fonts/FZJZFS.woff2') format('woff');
-  src: url('fonts/FZJZFS.woff') format('woff');
+  src: url('./neumorphism/fonts/FZJZFS.woff2') format('woff');
+  src: url('./neumorphism/fonts/FZJZFS.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'Bellota';
-  src: url('fonts/Bellota-Regular.woff2') format('woff');
+  src: url('./neumorphism/fonts/Bellota-Regular.woff2') format('woff');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'Bellota';
-  src: url('fonts/Bellota-Italic.woff2') format('woff');
+  src: url('./neumorphism/fonts/Bellota-Italic.woff2') format('woff');
   font-weight: normal;
   font-style: italic;
 }
 @font-face {
   font-family: 'Bellota';
-  src: url('fonts/Bellota-Bold.woff2') format('woff');
+  src: url('./neumorphism/fonts/Bellota-Bold.woff2') format('woff');
   font-weight: bold;
   font-style: normal;
 }
 @font-face {
   font-family: 'HYHuaGuan';
-  src: url('fonts/HYHuaGuan_55W.woff2') format('woff');
+  src: url('./neumorphism/fonts/HYHuaGuan_55W.woff2') format('woff');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'HYHuaGuan';
-  src: url('fonts/HYHuaGuan_85W.woff2') format('woff');
+  src: url('./neumorphism/fonts/HYHuaGuan_85W.woff2') format('woff');
   font-weight: bold;
   font-style: normal;
 }
 @font-face {
   font-family: 'JosefinSlab';
-  src: url('fonts/JosefinSlab-Regular.woff2') format('woff');
+  src: url('./neumorphism/fonts/JosefinSlab-Regular.woff2') format('woff');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'KhaiTi';
-  src: url('fonts/fangzhengkaiti.woff2') format('woff2'), url('fonts/fangzhengkaiti.woff') format('woff');
+  src: url('./neumorphism/fonts/fangzhengkaiti.woff2') format('woff2'), url('./neumorphism/fonts/fangzhengkaiti.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'Old Standard TT';
-  src: url('fonts/OldStandard-Bold.woff2') format('woff');
+  src: url('./neumorphism/fonts/OldStandard-Bold.woff2') format('woff');
   font-weight: bold;
   font-style: normal;
 }
 @font-face {
   font-family: 'Fira Code';
-  src: url('fonts/FiraCode-Light.woff2') format('woff2'), url("woff/FiraCode-Light.woff") format("woff");
+  src: url('./neumorphism/fonts/FiraCode-Light.woff2') format('woff2'), url("woff/FiraCode-Light.woff") format("woff");
   font-weight: 300;
   font-style: normal;
 }
 @font-face {
   font-family: 'Fira Code';
-  src: url('fonts/FiraCode-Regular.woff2') format('woff2'), url("woff/FiraCode-Regular.woff") format("woff");
+  src: url('./neumorphism/fonts/FiraCode-Regular.woff2') format('woff2'), url("woff/FiraCode-Regular.woff") format("woff");
   font-weight: 400;
   font-style: normal;
 }
 @font-face {
   font-family: 'Fira Code';
-  src: url('fonts/FiraCode-Bold.woff2') format('woff2'), url("woff/FiraCode-Bold.woff") format("woff");
+  src: url('./neumorphism/fonts/FiraCode-Bold.woff2') format('woff2'), url("woff/FiraCode-Bold.woff") format("woff");
   font-weight: 700;
   font-style: normal;
 }
 @font-face {
   font-family: 'Anonymous';
-  src: url('fonts/Anonymous.woff2') format('woff2');
+  src: url('./neumorphism/fonts/Anonymous.woff2') format('woff2');
   font-weight: 400;
   font-style: normal;
 }
 @font-face {
   font-family: 'Anonymous';
-  src: url('fonts/AnonymousB.woff2') format('woff2');
+  src: url('./neumorphism/fonts/AnonymousB.woff2') format('woff2');
   font-weight: bold;
   font-style: normal;
 }
 @font-face {
   font-family: 'Anonymous';
-  src: url('fonts/AnonymousI.woff2') format('woff2');
+  src: url('./neumorphism/fonts/AnonymousI.woff2') format('woff2');
   font-weight: 400;
   font-style: italic;
 }
